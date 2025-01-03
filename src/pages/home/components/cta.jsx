@@ -1,7 +1,6 @@
 import { HandThumbUpIcon } from "@heroicons/react/20/solid";
 import { UserGroupIcon } from "@heroicons/react/16/solid";
 import { HeartIcon } from "@heroicons/react/16/solid";
-import InstagramProfile from "../../../assets/instagram-consultme.png";
 import { useEffect } from "react";
 
 export default function StatsHome() {
